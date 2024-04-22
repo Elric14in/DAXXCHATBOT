@@ -27,4 +27,25 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ 𝐆𝐓𝐀 𝐍�
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXTEAM/DAXXCHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="320" height="138.45"/></a></p>
 
+
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://telegram.me/Elric_1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+<p align="center">
+<a href="https://telegram.me/Elric_1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+━━━━━━━━━━━━━━━━━━━━
+
+<h3 align="center">
+    ─「 ᴄʀᴇᴅɪᴛs 」─
+</h3>
+
+- <b>[𝙀𝙇𝙍𝙄𝘾](https://github.com/Elric14in)  ➻  [𝐆𝐓𝐀 𝐍𝐂𝐑 𝓧 𝐌𝐀𝐍𝐀𝐄𝐆𝐑⚡](https://github.com/Elric14in/DAXXCHATBOT) 
+  
   
