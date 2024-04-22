@@ -27,7 +27,11 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ 𝐆𝐓𝐀 𝐍�
 
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/DAXXTEAM/DAXXCHATBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="320" height="138.45"/></a></p>
 
+<img src="https://telegra.ph/file/f6befdc1b9e7ba53974a1.jpg">
+</p>
 
+</details>
+━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
