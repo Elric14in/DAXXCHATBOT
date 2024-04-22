@@ -5,13 +5,13 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Elric14in/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://github.com/Elric14in/DAXXCHATBOT/blob/master/DAXXCHATBOT/resources/fglitch.gif">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ 𝐆𝐓𝐀 𝐍𝐂𝐑 𝓧 𝐌𝐀𝐍𝐀𝐄𝐆𝐑⚡](https://https://t.me/+zFFLYOsY2xswOTZl)**_
 ━━━━━━━━━━━━━━━━━━━━
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
